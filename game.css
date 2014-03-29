@@ -1,0 +1,42 @@
+
+body 
+{
+  background-color: black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+h2 
+{
+  color: white;
+  display: inline;
+}
+
+#drawArea
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#textContainer
+{
+    width: 960px;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#score
+{
+    margin-left: 150px;
+}
+
+#start
+{
+    float: right;
+    display: none;
+}
